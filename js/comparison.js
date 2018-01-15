@@ -1,0 +1,3 @@
+$(function(){
+  $('.cocoen').cocoen();
+});
